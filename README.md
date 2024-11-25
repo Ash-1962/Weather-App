@@ -34,15 +34,15 @@ Displays an introduction.
 Weather Info Screen --->
 Shows weather information such as:
 
-# Temperature
+*Temperature
 
-# Weather condition
+* Weather condition
 
-# Weather icon (as described in the documentation).
+* Weather icon (as described in the documentation).
 
-# Country and city
+* Country and city
 
-# Date
+* Date
 
-# Forecast Button: Use this button to view the forecast for the next seven days.and app you can see animatine in temperature and forcast option
+* Forecast Button: Use this button to view the forecast for the next seven days.and app you can see animatine in temperature and forcast option
 
